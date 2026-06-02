@@ -1,4 +1,4 @@
-# Vehicle Market Analytics System
+# PakWheels_Inventory_Intelligence
 **pakwheels_db · MySQL 8 · Flask REST API · HTML/JS Frontend**
 Milestone 1–5 | Institute of Management Sciences, Peshawar
 
